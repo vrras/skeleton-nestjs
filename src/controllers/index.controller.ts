@@ -6,7 +6,7 @@ import { currentDate } from '../helpers/date.helper';
 export class IndexController {
     @Get()
     index() {
-        return { status: 'MestJs Server', uptime: process.uptime() };
+        return { status: 'NestJs Server', uptime: process.uptime() };
     }
 
     @Get('currentTime')

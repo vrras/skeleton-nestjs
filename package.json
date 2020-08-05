@@ -31,7 +31,7 @@
     "class-transformer": "^0.2.3",
     "class-validator": "^0.10.1",
     "dotenv": "^8.1.0",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "https-proxy-agent": "^2.2.2",
     "moment": "^2.24.0",
     "mysql": "^2.17.1",
